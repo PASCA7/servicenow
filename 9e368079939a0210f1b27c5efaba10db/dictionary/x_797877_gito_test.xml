@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="54e784c2939e4210f1b27c5efaba1008" extends="sys_import_set_row" label="Test" max_length="40" name="x_797877_gito_test" type="collection">
+        <element attributes="import_attribute_name=COGS" label="COGS" max_length="15" name="u_cogs" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Country" label="Country" max_length="40" name="u_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Discounts" label="Discounts" max_length="40" name="u_discounts" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Discount Band" label="Discount Band" max_length="40" name="u_discount_band" type="string"/>
+        <element attributes="import_attribute_name=Gross Sales" label="Gross Sales" max_length="15" name="u_gross_sales" type="decimal"/>
+        <element attributes="import_attribute_name=Manufacturing Price" label="Manufacturing Price" max_length="40" name="u_manufacturing_price" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Month Name" label="Month Name" max_length="40" name="u_month_name" type="string"/>
+        <element attributes="import_attribute_name=Month Number" label="Month Number" max_length="40" name="u_month_number" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Product" label="Product" max_length="40" name="u_product" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Profit" label="Profit" max_length="40" name="u_profit" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name= Sales" label=" Sales" max_length="40" name="u_sales" type="string"/>
+        <element attributes="import_attribute_name=Sale Price" label="Sale Price" max_length="40" name="u_sale_price" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Segment" label="Segment" max_length="40" name="u_segment" type="string"/>
+        <element attributes="import_attribute_name=Units Sold" label="Units Sold" max_length="15" name="u_units_sold" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Year" label="Year" max_length="40" name="u_year" type="string"/>
+    </element>
+</database>
